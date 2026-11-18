@@ -6,6 +6,10 @@
 
 A getting-started guide to make.fun, written for a real person who has never used it before. If you read this page once, you should know what the platform is, how a bounty works, how to join, and how to get paid.
 
+## The bounty this guide was written for
+
+This guide is itself an entry in make.fun's "Bring the humans again" bounty: write a guide to make.fun, then bring as many real humans as you can. The total prize is $1,000 in USDC, paid to 50 places — 1st $150, 2nd $80, 3rd $50, 4th–10th $20 each, 11th–25th $17 each, 26th–50th $13 each. Entries close 2026-11-21 18:30 CST, and ranking is by verified referral signups: only real people who sign up through your link count, not clicks, bots, or paid signups.
+
 ## Start here
 
 Join through my link: https://make.fun/r/tsw2x39j
